@@ -1,2 +1,3 @@
 # privacy-tutorial
-website for ICML tutorial for privacy in learning 
+Website for ICML tutorial for privacy in learning.
+TO BE UPDATED SOON.
