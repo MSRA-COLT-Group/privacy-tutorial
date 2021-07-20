@@ -1,5 +1,5 @@
 # privacy-tutorial
-Website for ICML2021 tutorial "Privacy in learning: Basics and the interplay".
+Welcome to the ICML2021 tutorial "Privacy in learning: Basics and the interplay".
 
 About the Presenters:
 
@@ -11,3 +11,5 @@ Huishuai Zhang a senior researcher at Microsoft Research Asia. His research inte
 Link for the slide deck [ICML2021  tutorial Privacy in learning.pdf](https://github.com/MSRA-COLT-Group/privacy-tutorial/files/6845299/ICML2021.tutorial.Privacy.in.learning.pdf)
 
 Link for the code implementation of DP-SGD/GEP/RGP algorithms in PyTorch https://github.com/dayu11/Differentially-Private-Deep-Learning.
+
+We are hiring. For anyone who are interested in this topic or have any questions , please don't hesitate to contact Huishuai via "huzhang at microsoft.com".
